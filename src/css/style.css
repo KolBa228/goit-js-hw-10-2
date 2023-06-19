@@ -1,0 +1,27 @@
+.is-hidden {
+    display: none;
+}
+
+.error {
+    color: red;
+    /* display: none; */
+    /* По умолчанию скрыт */
+}
+
+.breed-select {
+    margin: 10px 0;
+}
+
+
+.cat-info img {
+    width: 300px;
+}
+
+.cat-info h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.cat-info p {
+    margin: 5px 0;
+}
