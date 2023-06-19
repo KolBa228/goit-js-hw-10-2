@@ -4,8 +4,7 @@
 
 .error {
     color: red;
-    /* display: none; */
-    /* По умолчанию скрыт */
+    display: none;
 }
 
 .breed-select {
